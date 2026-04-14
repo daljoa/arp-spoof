@@ -2,4 +2,4 @@
 
 ## Demo
 
-[실행 영상 바로 보기](https://github.com/daljoa/arp-spoof/blob/main/demo.mov)
+[실행 영상 바로 보기](https://raw.githubusercontent.com/daljoa/arp-spoof/main/demo.mp4)
